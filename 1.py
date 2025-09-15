@@ -1,5 +1,4 @@
-a=int(input("a="))
-b=int(input("b="))
-c=int(input("c="))
-pertr=a+b+c
-print(pertr)
+a=int(input("d1="))
+b=int(input("d2="))
+sromb=(a+b) / 2
+print("S ромба =", 4sromb)
